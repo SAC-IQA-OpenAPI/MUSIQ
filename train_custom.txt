@@ -1,0 +1,3 @@
+Using GPU 1
+number of train scenes: 8058
+number of test scenes: 2015
