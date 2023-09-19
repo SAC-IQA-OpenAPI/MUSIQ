@@ -63,7 +63,6 @@ def train_epoch(config, epoch, model_transformer, model_backbone, criterion, opt
         labels_batch_numpy = labels.data.cpu().numpy()
         pred_epoch = np.append(pred_epoch, pred_batch_numpy)
         labels_epoch = np.append(labels_epoch, labels_batch_numpy)
-        print(idx, "idx")
         if (idx) % config.save_iter_freq == 0:
             weights_file_name = f"{epoch}_{idx}.pth"
             weights_file = os.path.join(config.snap_path, weights_file_name)

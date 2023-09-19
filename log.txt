@@ -1,0 +1,76 @@
+Using GPU 1
+number of train scenes: 8058
+number of test scenes: 2015
+save weights of epoch 1
+save weights of epoch 1
+save weights of epoch 1
+save weights of epoch 1
+save weights of epoch 1
+save weights of epoch 1
+save weights of epoch 1
+[train] epoch:1 / loss:0.320226 / SROCC:0.308623 / PLCC:0.320835
+save weights of epoch 2
+save weights of epoch 2
+save weights of epoch 2
+save weights of epoch 2
+save weights of epoch 2
+save weights of epoch 2
+save weights of epoch 2
+[train] epoch:2 / loss:1.273089 / SROCC:0.365742 / PLCC:0.398639
+save weights of epoch 3
+save weights of epoch 3
+save weights of epoch 3
+save weights of epoch 3
+save weights of epoch 3
+save weights of epoch 3
+save weights of epoch 3
+[train] epoch:3 / loss:0.509793 / SROCC:0.466943 / PLCC:0.502631
+save weights of epoch 4
+save weights of epoch 4
+save weights of epoch 4
+save weights of epoch 4
+save weights of epoch 4
+save weights of epoch 4
+save weights of epoch 4
+[train] epoch:4 / loss:1.434968 / SROCC:0.503220 / PLCC:0.533059
+save weights of epoch 5
+save weights of epoch 5
+save weights of epoch 5
+save weights of epoch 5
+save weights of epoch 5
+save weights of epoch 5
+save weights of epoch 5
+[train] epoch:5 / loss:0.749526 / SROCC:0.546696 / PLCC:0.570363
+test epoch:5 / loss:0.522161 /SROCC:0.581611 / PLCC:0.598533
+save weights of epoch 6
+save weights of epoch 6
+save weights of epoch 6
+save weights of epoch 6
+save weights of epoch 6
+save weights of epoch 6
+save weights of epoch 6
+[train] epoch:6 / loss:0.442729 / SROCC:0.598090 / PLCC:0.619247
+save weights of epoch 7
+save weights of epoch 7
+save weights of epoch 7
+save weights of epoch 7
+save weights of epoch 7
+save weights of epoch 7
+save weights of epoch 7
+[train] epoch:7 / loss:0.210812 / SROCC:0.589100 / PLCC:0.608841
+save weights of epoch 8
+save weights of epoch 8
+save weights of epoch 8
+save weights of epoch 8
+save weights of epoch 8
+save weights of epoch 8
+save weights of epoch 8
+[train] epoch:8 / loss:1.270380 / SROCC:0.635174 / PLCC:0.651852
+save weights of epoch 9
+save weights of epoch 9
+save weights of epoch 9
+save weights of epoch 9
+save weights of epoch 9
+save weights of epoch 9
+save weights of epoch 9
+[train] epoch:9 / loss:0.426120 / SROCC:0.644317 / PLCC:0.661791

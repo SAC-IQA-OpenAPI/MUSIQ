@@ -15,12 +15,12 @@ from data.dacon import DaconDataset
 config = Config({
     # device
     'gpu_id': "1",                          # specify GPU number to use
-    'num_workers': 0,
+    'num_workers': 4,
 
     # data
     'db_name': 'KonIQ-10k',                                     # database type
-    'db_path': '../data/train',      # root path of database
-    'csv_file_name': '../data/train.csv',                # list of images in the database
+    'db_path': '/data/train',      # root path of database
+    'csv_file_name': '/data/train.csv',                # list of images in the database
     'train_size': 0.8,                                          # train/vaildation separation ratio
     'scenes': 'all',                                            # using all scenes
     'scale_1': 384,                                             
@@ -50,9 +50,9 @@ config = Config({
     'momentum': 0.9,                        # SGD momentum
     'T_max': 3e4,                           # period (iteration) of cosine learning rate decay
     'eta_min': 0,                           # minimum learning rate
-    'save_iter_freq' : 10,                  # save checkpoint frequency (iteration)
+    'save_iter_freq' : 5000,                  # save checkpoint frequency (iteration)
     'save_freq': 10,                        # save checkpoint frequency (epoch)
-    'val_freq': 5,                          # validation frequency (epoch)
+    'val_freq': 1,                          # validation frequency (epoch)
 
 
     # load & save checkpoint
