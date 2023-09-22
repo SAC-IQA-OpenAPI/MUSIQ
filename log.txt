@@ -74,3 +74,187 @@ save weights of epoch 9
 save weights of epoch 9
 save weights of epoch 9
 [train] epoch:9 / loss:0.426120 / SROCC:0.644317 / PLCC:0.661791
+save weights of epoch 10
+save weights of epoch 10
+save weights of epoch 10
+save weights of epoch 10
+save weights of epoch 10
+save weights of epoch 10
+save weights of epoch 10
+[train] epoch:10 / loss:0.514698 / SROCC:0.646804 / PLCC:0.662143
+save weights of epoch 10
+test epoch:10 / loss:0.305116 /SROCC:0.632612 / PLCC:0.643092
+save weights of epoch 11
+save weights of epoch 11
+save weights of epoch 11
+save weights of epoch 11
+save weights of epoch 11
+save weights of epoch 11
+save weights of epoch 11
+[train] epoch:11 / loss:0.768986 / SROCC:0.692654 / PLCC:0.706243
+save weights of epoch 12
+save weights of epoch 12
+save weights of epoch 12
+save weights of epoch 12
+save weights of epoch 12
+save weights of epoch 12
+save weights of epoch 12
+[train] epoch:12 / loss:0.561577 / SROCC:0.678520 / PLCC:0.692727
+save weights of epoch 13
+save weights of epoch 13
+save weights of epoch 13
+save weights of epoch 13
+save weights of epoch 13
+save weights of epoch 13
+save weights of epoch 13
+[train] epoch:13 / loss:0.144284 / SROCC:0.707525 / PLCC:0.719507
+save weights of epoch 14
+save weights of epoch 14
+save weights of epoch 14
+save weights of epoch 14
+save weights of epoch 14
+save weights of epoch 14
+save weights of epoch 14
+[train] epoch:14 / loss:0.388393 / SROCC:0.728967 / PLCC:0.741727
+save weights of epoch 15
+save weights of epoch 15
+save weights of epoch 15
+save weights of epoch 15
+save weights of epoch 15
+save weights of epoch 15
+save weights of epoch 15
+[train] epoch:15 / loss:0.255419 / SROCC:0.716367 / PLCC:0.729114
+test epoch:15 / loss:0.311172 /SROCC:0.689219 / PLCC:0.702637
+save weights of epoch 16
+save weights of epoch 16
+save weights of epoch 16
+save weights of epoch 16
+save weights of epoch 16
+save weights of epoch 16
+save weights of epoch 16
+[train] epoch:16 / loss:0.139678 / SROCC:0.763749 / PLCC:0.772689
+save weights of epoch 17
+save weights of epoch 17
+save weights of epoch 17
+save weights of epoch 17
+save weights of epoch 17
+save weights of epoch 17
+save weights of epoch 17
+[train] epoch:17 / loss:0.382196 / SROCC:0.753250 / PLCC:0.763494
+save weights of epoch 18
+save weights of epoch 18
+save weights of epoch 18
+save weights of epoch 18
+save weights of epoch 18
+save weights of epoch 18
+save weights of epoch 18
+[train] epoch:18 / loss:0.356832 / SROCC:0.763155 / PLCC:0.772156
+save weights of epoch 19
+save weights of epoch 19
+save weights of epoch 19
+save weights of epoch 19
+save weights of epoch 19
+save weights of epoch 19
+save weights of epoch 19
+[train] epoch:19 / loss:0.931639 / SROCC:0.799291 / PLCC:0.807172
+save weights of epoch 20
+save weights of epoch 20
+save weights of epoch 20
+save weights of epoch 20
+save weights of epoch 20
+save weights of epoch 20
+save weights of epoch 20
+[train] epoch:20 / loss:0.326458 / SROCC:0.779044 / PLCC:0.788332
+save weights of epoch 20
+test epoch:20 / loss:0.035824 /SROCC:0.723853 / PLCC:0.734824
+save weights of epoch 21
+save weights of epoch 21
+save weights of epoch 21
+save weights of epoch 21
+save weights of epoch 21
+save weights of epoch 21
+save weights of epoch 21
+[train] epoch:21 / loss:0.300026 / SROCC:0.809644 / PLCC:0.816366
+save weights of epoch 22
+save weights of epoch 22
+save weights of epoch 22
+save weights of epoch 22
+save weights of epoch 22
+save weights of epoch 22
+save weights of epoch 22
+[train] epoch:22 / loss:0.506827 / SROCC:0.815649 / PLCC:0.823122
+save weights of epoch 23
+save weights of epoch 23
+save weights of epoch 23
+save weights of epoch 23
+save weights of epoch 23
+save weights of epoch 23
+save weights of epoch 23
+[train] epoch:23 / loss:0.444695 / SROCC:0.806956 / PLCC:0.814761
+save weights of epoch 24
+save weights of epoch 24
+save weights of epoch 24
+save weights of epoch 24
+save weights of epoch 24
+save weights of epoch 24
+save weights of epoch 24
+[train] epoch:24 / loss:0.728669 / SROCC:0.846205 / PLCC:0.850868
+save weights of epoch 25
+save weights of epoch 25
+save weights of epoch 25
+save weights of epoch 25
+save weights of epoch 25
+save weights of epoch 25
+save weights of epoch 25
+[train] epoch:25 / loss:0.460070 / SROCC:0.830218 / PLCC:0.836287
+test epoch:25 / loss:0.135644 /SROCC:0.742929 / PLCC:0.753915
+save weights of epoch 26
+save weights of epoch 26
+save weights of epoch 26
+save weights of epoch 26
+save weights of epoch 26
+save weights of epoch 26
+save weights of epoch 26
+[train] epoch:26 / loss:0.159571 / SROCC:0.842006 / PLCC:0.846805
+save weights of epoch 27
+save weights of epoch 27
+save weights of epoch 27
+save weights of epoch 27
+save weights of epoch 27
+save weights of epoch 27
+save weights of epoch 27
+[train] epoch:27 / loss:0.220399 / SROCC:0.864948 / PLCC:0.868035
+save weights of epoch 28
+save weights of epoch 28
+save weights of epoch 28
+save weights of epoch 28
+save weights of epoch 28
+save weights of epoch 28
+save weights of epoch 28
+[train] epoch:28 / loss:0.399141 / SROCC:0.844029 / PLCC:0.850576
+save weights of epoch 29
+save weights of epoch 29
+save weights of epoch 29
+save weights of epoch 29
+save weights of epoch 29
+save weights of epoch 29
+save weights of epoch 29
+[train] epoch:29 / loss:0.283062 / SROCC:0.873513 / PLCC:0.876514
+save weights of epoch 30
+save weights of epoch 30
+save weights of epoch 30
+save weights of epoch 30
+save weights of epoch 30
+save weights of epoch 30
+save weights of epoch 30
+[train] epoch:30 / loss:0.331431 / SROCC:0.870542 / PLCC:0.874142
+save weights of epoch 30
+test epoch:30 / loss:0.227429 /SROCC:0.774806 / PLCC:0.785415
+save weights of epoch 31
+save weights of epoch 31
+save weights of epoch 31
+save weights of epoch 31
+save weights of epoch 31
+save weights of epoch 31
+save weights of epoch 31
+[train] epoch:31 / loss:0.297264 / SROCC:0.865843 / PLCC:0.869798
